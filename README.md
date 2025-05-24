@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="![Banner](https://github.com/user-attachments/assets/3052c0e4-5108-4cd7-ae8e-374102de6076)
-"  width="100%"/>
+  <img src="Banner.png" alt="Data Automation Insight Security Banner" width="60%" height="40%"/>
 </p>
 
 <h1 align="center">Hi there, I'm Urvashi Sharma 👋</h1>
