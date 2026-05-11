@@ -3,66 +3,75 @@
 </p>
 
 <h1 align="center">Hi there, I'm Urvashi Sharma 👋</h1>
+
 <p align="center">
-  <em>Aspiring Data Scientist &amp; Cybersecurity Enthusiast</em>
+  <em>AI/ML Engineer | Generative AI | Python | Intelligent Systems</em>
 </p>
 
 <p align="center">
-  <b>Python | SQL | Power BI | Machine Learning | Data Visualization | Research &amp; Analysis</b>
+  <b>Machine Learning • Multi-Agent Systems • NLP • AI Automation • FastAPI • Python</b>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 <b>Tagline:</b> <br>
-  <i>Aspiring Data Scientist | Python, SQL, Power BI | NLP (LSTM), Fraud Detection & ML Projects | IEEE-Published | Cybersecurity-Aware | Google Data Analytics Certified</i>
-- 🧑‍💻 I’m passionate about leveraging data to solve real-world problems, with a strong focus on ML, NLP, and cybersecurity.
-- 🏅 IEEE-published researcher, always exploring new data technologies and methodologies.
-- 🌱 Currently upskilling in advanced machine learning and cybersecurity domains.
+- 🧠 Building AI-powered systems focused on Generative AI, multi-agent workflows, NLP, and intelligent automation.
+- ⚙️ Interested in designing practical AI solutions using Python, FastAPI, modular architectures, and scalable workflow orchestration.
+- 🚀 Recently developed projects around AI advertisement generation and multi-agent orchestration systems with deployment-focused engineering practices.
+- 📚 Continuously exploring LLM systems, agentic workflows, retrieval pipelines, and modern AI engineering concepts.
+- 🏅 IEEE-published researcher with a strong foundation in machine learning, analytical problem-solving, and systems thinking.
 
 ---
 
 ### 🛠️ Skills & Tools
 
-- **Programming & Tools:** Python, SQL, Git, Jupyter Notebook, Excel, Power BI (Basics), APIs
-- **Data & Analysis:** Data Cleaning, EDA, Feature Engineering, NLP, XGBoost, LSTM, Model Evaluation
-- **Testing & QA:** Test Planning, Automation Awareness, Root Cause Analysis, QA Documentation
-- **Cloud & Security Awareness:** IAM (Cybersecurity Simulation), Basic Cloud Concepts (Azure, AWS)
-- **Project Delivery & Collaboration:** Agile Workflows, Jira, Confluence, Google Workspace
-- **Soft Skills:** Analytical Thinking, Initiative, Cross-functional Teamwork, Clear Communication
+- **Programming & Backend:** Python, SQL, FastAPI, REST APIs, Git
+- **AI & Machine Learning:** Machine Learning, NLP, LSTM, Scikit-learn, TensorFlow, Feature Engineering, Model Evaluation
+- **Generative AI & Intelligent Systems:** Prompt Engineering, Multi-Agent Workflows, AI Automation, Retrieval Pipelines, Workflow Orchestration
+- **Data & Workflow Engineering:** Pandas, NumPy, Data Preprocessing, Structured Logging, Modular Pipeline Design
+- **Deployment & Engineering Practices:** Docker, API Integration, Reproducible Workflows, System Observability
+- **Collaboration & Workflow:** Agile Workflows, Technical Documentation, Cross-functional Collaboration
 
 ---
 
 ### 🌟 Featured Projects
 
-- [Fraud-Detection](https://github.com/URVASHI1sharma/Fraud-Detection):  
-  A machine learning project to detect fraudulent banking transactions using Logistic Regression, Random Forest, and XGBoost with threshold tuning and evaluation.
+- [Multi-Agent Orchestration System](#)  
+  Production-style multi-agent AI system featuring centralized orchestration, shared memory, retrieval workflows, critique-based self-evaluation, structured tooling, FastAPI integration, Dockerized deployment, and reproducible evaluation pipelines.
 
-- [Sentiment_analysis-Amazon_review](https://github.com/URVASHI1sharma/Sentiment_analysis-Amazon_review):  
-  This project focuses on classifying customer reviews from the Amazon Fine Food Reviews dataset into positive and negative sentiments using Natural Language Processing (NLP) and Machine Learning techniques.
+- [AI Advertisement Generation System](#)  
+  AI-powered advertisement generation platform focused on modular AI workflows, automated promotional content generation, scalable backend orchestration, and deployment-oriented engineering practices.
+
+- [Fraud Detection & Anomaly Analysis]  
+  Machine learning pipeline for detecting anomalous banking transactions using feature engineering, classification models, and imbalance-aware evaluation techniques.
+
+- [Sentiment Analysis Using NLP & LSTM] 
+  NLP-based sentiment classification system leveraging LSTM architectures, text preprocessing, and sequence modeling for structured sentiment analysis.
 
 ---
 
 ### 📌 Featured Highlights
 
-- 📄 **IEEE Publication:** Proud contributor to academic research.
-- 🤖 **ML Projects:** Built projects around NLP, LSTM, and fraud detection.
-- 🔒 **Cybersecurity:** Applying ML in security scenarios and staying updated on the latest in data protection.
+- 🤖 **AI Systems Engineering:** Building projects around Generative AI, intelligent automation, and multi-agent orchestration workflows.
+- ⚙️ **Production-Oriented Development:** Focused on modular architectures, API-driven systems, observability, and scalable AI workflows.
+- 📄 **IEEE Publication:** Published research in UAV communication systems and energy-efficient network optimization.
+- 🚀 **Continuous Exploration:** Actively exploring LLM systems, agentic AI workflows, retrieval pipelines, and practical AI engineering concepts.
 
 ---
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-Urvashi%20Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/urvashi-sharma-b07a92163)](https://www.linkedin.com/in/urvashi-sharma-b07a92163)
+- 💼 LinkedIn: [Urvashi Sharma](https://www.linkedin.com/in/urvashi-sharma-b07a92163)
+- 💻 GitHub: [URVASHI1sharma](https://github.com/URVASHI1sharma)
 
 ---
 
-### 💡 Fun Facts
+### 💡 Current Focus
 
-- 📚 Love upskilling through courses and certifications.
-- 🤝 Enjoy socializing and collaborating with fellow tech enthusiasts.
-- 📖 Avid reader in both tech and non-tech domains.
+- 🧠 Exploring Generative AI systems, multi-agent orchestration, and intelligent workflow automation.
+- ⚙️ Building AI projects with focus on modular architectures, backend workflows, and scalable engineering practices.
+- 🚀 Interested in practical AI applications that bridge machine learning, automation, and real-world usability.
 
 ---
 
