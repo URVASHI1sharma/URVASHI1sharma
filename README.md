@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner.png" alt="Data Automation Insight Security Banner" width="60%" height="40%"/>
+  <img src="Banner.png" alt="Building Intelligent AI Systems Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi there, I'm Urvashi Sharma 👋</h1>
@@ -80,5 +80,5 @@
 </p>
 
 <p align="center">
-  <i>Let's unlock the power of data together!</i>
+  <i>Building Intelligent AI Systems ✨</i>
 </p>
